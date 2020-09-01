@@ -2,8 +2,6 @@
 #include <windows.h>
 #include <conio.h>
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-/*Creacion de la plataforma*/
-
 using namespace std;
 
 void gotoxy(int x, int y) {
@@ -30,8 +28,6 @@ void cuadro(int x1,int y1,int x2, int y2)
 	gotoxy(x1,y2);cout<<char(200);
 	gotoxy(x2,y2);cout<<char(188);
 }
-
-/*Creacion de celdas*/
 void celdas(int x1,int y1,int x2,int y2)
 {
 	int x;
@@ -51,8 +47,6 @@ void celdas(int x1,int y1,int x2,int y2)
 	gotoxy(x1,y2);cout<<char(200);
 	gotoxy(x2,y2);cout<<char(188);
 }
-
-/*Creacion de las diviciones de las celdas "Horizontales"*/
 void diviciones(int x1,int y1,int x2,int y2){
 
 	int x,y;
@@ -63,8 +57,6 @@ void diviciones(int x1,int y1,int x2,int y2){
 //	gotoxy (x1,y1);cout<<char (186);
 //	gotoxy (x2,y1);cout<<char (186);
 }
-
-/*Creacion de las diviciones de las celdas "Verticales"*/
 void divicion(int x1,int y1,int x2,int y2){
 
 	int x,y;
@@ -76,8 +68,6 @@ void divicion(int x1,int y1,int x2,int y2){
 //	gotoxy (x1,y2);cout <<char(205);
 	
 }
-
-/*Estructura del programa main*/
 main() {
 	int x,c,d,e,s,i;
 	int g,h,j,k,l,m,n,o,p;
@@ -98,9 +88,10 @@ main() {
 
 for(i=1;i<=9;i++)
 {
+	
 	gotoxy (40,9);cout<<"Jugador 1 :"<<a<<"";
 	gotoxy(40,11);cout<<"En donde desea colocar su marca :";
-	cin>>e;
+	//cin>>e;
 		switch (e)
 				{
 					case 1:
@@ -269,8 +260,5 @@ getch();
 gotoxy(2,25);return 0;					
 }
 
-/*Este es el test*/
 
-
-
-
+/* ESTE ES EL Test*/
