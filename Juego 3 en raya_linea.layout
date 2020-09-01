@@ -1,5 +1,10 @@
 [Editor_0]
 CursorCol=1
+<<<<<<< HEAD
 CursorRow=263
 TopLine=241
+=======
+CursorRow=273
+TopLine=254
+>>>>>>> test
 LeftChar=1

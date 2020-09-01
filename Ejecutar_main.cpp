@@ -91,7 +91,7 @@ for(i=1;i<=9;i++)
 	
 	gotoxy (40,9);cout<<"Jugador 1 :"<<a<<"";
 	gotoxy(40,11);cout<<"En donde desea colocar su marca :";
-	cin>>e;
+	//cin>>e;
 		switch (e)
 				{
 					case 1:
@@ -261,3 +261,7 @@ gotoxy(2,25);return 0;
 }
 
 
+<<<<<<< HEAD
+=======
+/* ESTE ES EL Test*/
+>>>>>>> test
