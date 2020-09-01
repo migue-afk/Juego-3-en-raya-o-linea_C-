@@ -6,7 +6,7 @@ las que deseemos empezar el juego, posterior a ello nos pedirá en que posición
 del tablero se completen, o hasta que haya un ganador.
 
 
-### Resultado de la ejecucion del código
+### Resultado de la ejecución del código
 ![Ver archivo Resultado_final.PNG](https://github.com/migue-afk/Juego-3-en-raya-o-linea_C-/blob/master/Resultado_final.PNG)
 
 
