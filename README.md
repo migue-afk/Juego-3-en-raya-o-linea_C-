@@ -11,4 +11,4 @@ del tablero se completen, o hasta que haya un ganador.
 
 
 Nota: Este es un programa para aprender muchos de los comandos que se usan en el lenguaje C++, por lo que el código no está optimizado, ademas de estar lejos de ser perfecto por lo
-que existen errores, los cuales se conocerán conforme se vayan ejecutando más pruebas.
+que existen **errores**, los cuales se conocerán conforme se vayan ejecutando más pruebas.
