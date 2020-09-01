@@ -269,7 +269,7 @@ getch();
 gotoxy(2,25);return 0;					
 }
 
-
+/*Este es el test*/
 
 
 
