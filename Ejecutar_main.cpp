@@ -52,3 +52,18 @@ void celdas(int x1,int y1,int x2,int y2)
 	gotoxy(x2,y2);cout<<char(188);
 }
 
+/*Creacion de las diviciones de las celdas*/
+void diviciones(int x1,int y1,int x2,int y2){
+
+	int x,y;
+	for (x=x1;x<=x2;x++)
+	{
+		gotoxy (x,y1);cout<<char (196);
+	}
+//	gotoxy (x1,y1);cout<<char (186);
+//	gotoxy (x2,y1);cout<<char (186);
+}
+
+
+
+
