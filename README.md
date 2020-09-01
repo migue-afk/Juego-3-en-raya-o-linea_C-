@@ -1,4 +1,4 @@
-# Juego-3-en-raya-o-linea_C-
+# Juego-3-en-raya-o-linea_C++
 Este código hace referencia a un programa del famoso juego 3 en raya o línea el cual se ejecuta en la consola.
 
 Para lograr el funcionamiento del programa es necesario la ejecución del archivo **Ejecutar_main.cpp**, tras ello se abrirá la consola y nos pedirá ingresar las marcas con
