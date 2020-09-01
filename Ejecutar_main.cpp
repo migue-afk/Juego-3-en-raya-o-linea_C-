@@ -80,15 +80,10 @@ main() {
 	divicion(23,5,5,14);
 	gotoxy (40,6);cout<<"Jugador numero [1] marca :" ;cin>>a;
 	cout<<endl;
-	gotoxy (40,7);cout<<"Jugador numero [2] marca :";cin>>w;
-	
+	gotoxy (40,7);cout<<"Jugador numero [2] marca :";cin>>w;	
 	cout<<endl;
-	
-
-
 for(i=1;i<=9;i++)
 {
-	
 	gotoxy (40,9);cout<<"Jugador 1 :"<<a<<"";
 	gotoxy(40,11);cout<<"En donde desea colocar su marca :";
 	//cin>>e;
@@ -169,9 +164,8 @@ for(i=1;i<=9;i++)
             if ((k==l)&&(l==n)){
             gotoxy(40,20);cout<<"Ganador jugador 1";
             i=10;
-            }
-                
-				i++;
+            }   
+			i++;
 			gotoxy (40,13);cout<<"Jugador 2:"<<w<<"";
 			gotoxy(40,15);cout<<"En donde desea colocar su marca :";
 			cin>>c;
@@ -253,7 +247,6 @@ for(i=1;i<=9;i++)
             gotoxy(40,20);cout<<"Ganador jugador 2";
             i=10;
             }
-			
 }
 getch();	  
 
@@ -261,7 +254,3 @@ gotoxy(2,25);return 0;
 }
 
 
-<<<<<<< HEAD
-=======
-/* ESTE ES EL Test*/
->>>>>>> test
