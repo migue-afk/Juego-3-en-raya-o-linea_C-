@@ -5,5 +5,10 @@ Para lograr el funcionamiento del programa es necesario la ejecución del archiv
 las que deseemos empezar el juego, posterior a ello nos pedirá en que posición del tablero quiere que se coloque la marca, el juego terminara cuando las nueve posiciones
 del tablero se completen, o hasta que haya un ganador.
 
-Nota: Este es un programa para aprender muchos de los comandos que se hacen uso en el lenguaje C++, por lo que el código no está optimizado, ademas de estar lejos de ser perfecto por lo
-que existen errores, los cuales se conocerán conforme se vayan ejecutando más pruebas.
+
+### Resultado de la ejecución del código
+![Ver archivo Resultado_final.PNG](https://github.com/migue-afk/Juego-3-en-raya-o-linea_C-/blob/master/Resultado_final.PNG)
+
+
+Nota: Este es un programa para aprender muchos de los comandos que se usan en el lenguaje C++, por lo que el código no está optimizado, ademas de estar lejos de ser perfecto por lo
+que existen **errores**, los cuales se conocerán conforme se vayan ejecutando más pruebas.
