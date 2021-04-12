@@ -10,7 +10,6 @@ del tablero se completen, o hasta que haya un ganador.
 ![Ver archivo Resultado_final.PNG](https://github.com/migue-afk/Juego-3-en-raya-o-linea_C-/blob/master/Resultado_final.PNG)
 
 
-Nota: Este es un programa para aprender muchos de los comandos que se usan en el lenguaje C++, por lo que el código no está optimizado, además de estar lejos de ser perfecto por lo
-que existen **errores**, los cuales se conocerán conforme se vayan ejecutando más pruebas.
+Nota: Este es un programa para aprender muchos de los comandos que se usan en el lenguaje C++, por lo que el código no está optimizado, además existen **errores**, los cuales se conocerán conforme se vayan ejecutando más pruebas.
 
-PD: Las tildes han sido omitidas intencionalmente de algunos archivos de programa y de carpetas relacionadas al código, con el objetivo de evitar problemas de lectura y ejecución del mismo.
+PD: Las tildes dentro son omitidas intencionalmente, con el objetivo de evitar problemas de lectura y ejecución del codigo, este programa fue realizado en Dev++.
